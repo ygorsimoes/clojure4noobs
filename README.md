@@ -30,4 +30,4 @@ informações.</p>
 
 <h1>Licença</h1>
 
-<p>Este projeto foi desenvolvido com ❤️ e está lançado sob a <a href="https://github.com/ygorsimoes/clojure4noobs/blob/main/LICENSE">licença MIT</a>.</p>
+<p>Este projeto está sendo desenvolvido com ❤️ e lançado sob a <a href="https://github.com/ygorsimoes/clojure4noobs/blob/main/LICENSE">licença MIT</a>.</p>
