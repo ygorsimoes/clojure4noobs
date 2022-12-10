@@ -29,8 +29,11 @@ de cabeça.</p>
 caso não saiba onde está o material que esteja procurando é aqui que você vai achar.</p>
 
 <h2>✨ Módulo 1 - Iniciante</h2>
-- 
-- [Introdução ao Clojure](https://github.com/ygorsimoes/clojure4noobs/blob/main/doc/iniciante/README.md)
-    - [O que é Clojure?](#)
-    - [História do Clojure](#)
-    - [O que é Programação Funcional?](#)
+
+
+* [Introdução](https://github.com/ygorsimoes/clojure4noobs/tree/main/doc/iniciante#-m%C3%B3dulo-1---iniciante)
+* [Requisitos do curso](https://github.com/ygorsimoes/clojure4noobs/tree/main/doc/iniciante#-requisitos-do-curso)
+* [Introdução ao Clojure](https://github.com/ygorsimoes/clojure4noobs/tree/main/doc/iniciante#-introdu%C3%A7%C3%A3o-ao-clojure)
+  * [O que é Clojure?](https://github.com/ygorsimoes/clojure4noobs/tree/main/doc/iniciante#o-que-%C3%A9-clojure)
+  * [História do Clojure](https://github.com/ygorsimoes/clojure4noobs/tree/main/doc/iniciante#hist%C3%B3ria-do-clojure)
+  * [O que é Programação Funcional?](https://github.com/ygorsimoes/clojure4noobs/tree/main/doc/iniciante#o-que-%C3%A9-programa%C3%A7%C3%A3o-funcional)
